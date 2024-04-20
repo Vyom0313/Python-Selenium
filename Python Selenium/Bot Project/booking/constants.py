@@ -1,0 +1,1 @@
+BASE_URL = "www.booking.com"
